@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ryan-henrique-aguiar" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-henrique-aguiar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=03759c&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
   <a href="mailto:ryan.aguiarh@gmail.com" target="_blank">
